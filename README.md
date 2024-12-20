@@ -8,7 +8,7 @@
 > Une application web moderne pour visualiser et analyser vos données météorologiques intérieures et extérieures
 
 <p align="center">
-  <img src="/api/placeholder/800/400" alt="Dashboard Preview">
+  <img src="![Dashboard Preview](image.png)" alt="Dashboard Preview">
 </p>
 
 ## ✨ Fonctionnalités
